@@ -4,19 +4,14 @@ This tool is designed to assess the strength of a password based on various crit
 
 Features
 
-Assessment Criteria: The tool evaluates the strength of a password based on the following criteria:
-Length: Passwords should be at least 8 characters long.
-Uppercase Letters: Passwords should contain at least one uppercase letter.
-Lowercase Letters: Passwords should contain at least one lowercase letter.
-Numbers: Passwords should contain at least one numeric digit.
-Special Characters: Passwords should contain at least one special character (e.g., !@#$%^&*()_+{}|:"<>?).
-Feedback: After assessing a password, the tool provides feedback on its strength, categorizing it as:
-Very Strong
-Strong
-Moderate
-Weak
-Very Weak
-Continued Assessment: Users have the option to continue assessing more passwords after receiving feedback on each password.
+* Assessment Criteria: The tool evaluates the strength of a password based on the following criteria:
+* Length: Passwords should be at least 8 characters long.
+* Uppercase Letters: Passwords should contain at least one uppercase letter.
+* Lowercase Letters: Passwords should contain at least one lowercase letter.
+* Numbers: Passwords should contain at least one numeric digit.
+* Special Characters: Passwords should contain at least one special character (e.g., !@#$%^&*()_+{}|:"<>?).
+* Feedback: After assessing a password, the tool provides feedback on its strength, categorizing it as: Very Strong, Strong, Moderate, Weak, Very Weak
+* Continued Assessment: Users have the option to continue assessing more passwords after receiving feedback on each password.
 
 Usage
 

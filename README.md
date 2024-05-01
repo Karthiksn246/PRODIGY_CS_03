@@ -16,7 +16,7 @@ Features
 Usage
 
 Installation:
-Clone this repository to your local machine.
+> Clone this repository to your local machine.
 Running the Tool:
 Navigate to the directory containing the tool's source code.
 Run the tool by executing the Python script: python password_strength_assessment.py

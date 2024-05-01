@@ -15,22 +15,17 @@ Features
 
 Usage
 
-Installation:
-> Clone this repository to your local machine.
-Running the Tool:
-Navigate to the directory containing the tool's source code.
-Run the tool by executing the Python script: python password_strength_assessment.py
-Input:
-Enter a password when prompted by the tool.
-Output:
-The tool will assess the strength of the entered password and provide feedback on its strength.
-Users can choose to continue assessing more passwords if desired.
+* Installation: Clone this repository to your local machine.
+* Running the Tool: Navigate to the directory containing the tool's source code.
+* Run the tool by executing the Python script: python password_strength_assessment.py
+* Input: Enter a password when prompted by the tool.
+* Output: The tool will assess the strength of the entered password and provide feedback on its strength. Users can choose to continue assessing more passwords if desired.
 
 Example
 
-Enter a password to assess its strength: MyP@ssw0rd
-Strength of the password 'MyP@ssw0rd': Very Strong
-Do you want to continue assessing passwords? (yes/no): yes
-Enter a password to assess its strength: weakpassword
-Strength of the password 'weakpassword': Weak
-Do you want to continue assessing passwords? (yes/no): no
+* Enter a password to assess its strength: MyP@ssw0rd
+* Strength of the password 'MyP@ssw0rd': Very Strong
+* Do you want to continue assessing passwords? (yes/no): yes
+* Enter a password to assess its strength: weakpassword
+* Strength of the password 'weakpassword': Weak
+* Do you want to continue assessing passwords? (yes/no): no
